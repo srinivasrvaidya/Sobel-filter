@@ -1,0 +1,31 @@
+ == Observations ==
+
+Details of the running time::
+
+Image: house.tiff
+Size: 256X256
+Execution Time(sec) in PARALLEL code: 0.004836
+Execution Time(sec) in SERIAL code: 0.01285
+Speed up: 2.65
+
+Image: peppers.tiff
+Size: 512X512
+Execution Time(sec) in PARALLEL code: 0.0210
+Execution Time(sec) in SERIAL code: 0.04427
+Speed up: 2.10408
+
+Image: mandrill.tiff
+Size: 512X512
+Execution Time(sec) in PARALLEL code: 0.01932
+Execution Time(sec) in SERIAL code: 0.03751
+Speed up: 1.9407
+
+Image: tiger.tiff
+Size: 1024X1026
+Execution Time(sec) in PARALLEL code: 0.0799
+Execution Time(sec) in SERIAL code: 0.1484
+Speed up: 1.8926
+
+(Running time varies on each run)
+
+
